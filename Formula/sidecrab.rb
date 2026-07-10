@@ -2,7 +2,7 @@ class Sidecrab < Formula
   desc "Claude Code desktop pet - 8-bit crab companion that reacts to Claude working"
   homepage "https://github.com/zvoque/sidecrab"
   url "https://github.com/zvoque/sidecrab/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "76e7531c08b0d98e427c0e27a8ea4ab90ba7b37d96435da0b656b8c7a4102701"
+  sha256 "f5adea6bf892b8b5f936451a1911a9e80fe511ace8f740803a9210f64502a7d6"
   license "MIT"
 
   depends_on "rust" => :build
